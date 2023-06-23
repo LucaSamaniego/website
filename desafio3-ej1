@@ -1,3 +1,7 @@
+para "pausar" el archivo del commit actual se necesita ejecutar el comando "git stash"
+una vez hecho esto, podras ir a la master con "git checkout" y borrar el archivo.
+posteriormente podras volver a la rama en la que estabas trabajando (en este caso custom-navbar) y sacar el archivo del stash con "git stash pop" 
+
 Lucas@DESKTOP-PITHO2F MINGW64 /c/Desarrollo/EducacionIT
 $ cd desafio-3
 
