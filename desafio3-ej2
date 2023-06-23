@@ -1,0 +1,1 @@
+la manera de poder subir los cambios a la rama master es con "git merge". es decir: estando en la rama master, ejecutar el comando "git merge front-react" para asi traer los cambios hechos en la branch "front-react" a la master
